@@ -1,5 +1,5 @@
 # AI Assisted AML SAR Automation System
-
+An early stage attempt to solve real world financial reporting inefficiencies using AI assisted workflows.
 ## Overview
 This project focuses on automating the generation of Suspicious Activity Reports using AI and structured workflows.
 
