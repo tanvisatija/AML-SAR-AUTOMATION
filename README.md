@@ -32,3 +32,7 @@ Build working prototype
 Improve workflow design  
 Integrate better AI outputs  
 Initial system design phase completed
+
+## System Flow
+<img width="466" height="334" alt="Screenshot 2026-04-19 163249" src="https://github.com/user-attachments/assets/a4628680-c125-437e-8048-de8a43a15f65" />
+
