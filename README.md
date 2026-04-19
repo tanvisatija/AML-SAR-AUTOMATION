@@ -36,3 +36,7 @@ Initial system design phase completed
 ## System Flow
 <img width="466" height="334" alt="Screenshot 2026-04-19 163249" src="https://github.com/user-attachments/assets/a4628680-c125-437e-8048-de8a43a15f65" />
 
+## Learning Outcome
+Understanding how real world financial systems work  
+Exploring how AI can be applied to automate structured tasks  
+Building problem solving approach for practical systems  
